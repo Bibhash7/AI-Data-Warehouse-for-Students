@@ -17,4 +17,4 @@ Other features.
 
 Project Flow Diagram:
 
-![plot](https://ibb.co/9wYrdXC)
+[![AI-Student-Data-Warehouse.jpg](https://i.postimg.cc/nzqNDxGX/AI-Student-Data-Warehouse.jpg)](https://postimg.cc/ftT8G6Fs)
