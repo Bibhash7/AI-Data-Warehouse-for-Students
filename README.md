@@ -14,3 +14,7 @@ Other features.
     3. Database Inheritance - Implemented the concept of RDBMS as well as ORDBMS.                  
     
     4. Bulk Insertion - Transfer data from one table to another table using SQL Query.
+
+Project Flow Diagram:
+
+![alt text](https://ibb.co/9wYrdXC)
