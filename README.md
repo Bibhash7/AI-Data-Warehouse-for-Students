@@ -17,4 +17,4 @@ Other features.
 
 Project Flow Diagram:
 
-![alt text](https://ibb.co/9wYrdXC)
+![plot](https://ibb.co/9wYrdXC)
